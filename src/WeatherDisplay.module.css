@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+    font-size: larger;
+  }
+  .temperature{
+    font-size: 24px;
+  }
+  .condition{
+    font-size: 24px;
+  }
+  
+  .error {
+    font-size: 24px;
+    color: red;
+    text-align: center;
+  }
+  
